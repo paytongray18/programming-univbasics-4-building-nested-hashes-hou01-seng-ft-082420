@@ -1,6 +1,7 @@
 def base_hash
   base_hash = {
-    :roadway => {"concrete","railroads","dirt"}
+    :roadway => {},
+    :railroads => {}
   }
 
 end
